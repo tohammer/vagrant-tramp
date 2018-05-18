@@ -1,5 +1,12 @@
 #Vagrant TRAMP
 
+## Fork description
+
+This repository is forked from https://github.com/dougm/vagrant-tramp in order for me to have a copy of vagrant-tramp with these 2 issues fixed:
+
+- https://github.com/dougm/vagrant-tramp/issues/33
+- https://github.com/dougm/vagrant-tramp/pull/38
+
 ## Synopsis
 
 `vagrant-tramp` adds an Emacs
